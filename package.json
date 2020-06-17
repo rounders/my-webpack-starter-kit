@@ -1,0 +1,10 @@
+{
+  "name": "my-webpack-starter-kit",
+  "version": "1.0.0",
+  "description": "a webpack starter kit",
+  "main": "index.js",
+  "repository": "https://github.com/rounders/my-webpack-starter-kit.git",
+  "author": "Francois Harbec",
+  "license": "MIT",
+  "private": true
+}
