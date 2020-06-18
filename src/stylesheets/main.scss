@@ -1,0 +1,17 @@
+@import "custom";
+@import "~bootstrap/scss/bootstrap";
+
+header {
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  padding: 10px 0;
+  border-top: 1px solid black;
+}
+
+body {
+  // paths must be relative to this file
+  // background: url('../images/spacex.jpg');
+}
